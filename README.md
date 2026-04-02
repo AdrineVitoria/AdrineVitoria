@@ -12,7 +12,7 @@ Minhas Técnica:
   
 • Automação: Robot Framework, Selenium, Playwright e karate Framework.
 
-• Linguagens: Python, JavaScript e TypeScript.
+• Linguagens: Python, JavaScript , Java e TypeScript.
 
 • Testes de API: Postman e ServeRest.
 
