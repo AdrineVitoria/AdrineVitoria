@@ -10,7 +10,7 @@
 
 Minhas Técnica:
   
-• Automação: Robot Framework, Selenium, Playwright e Robot Framework.
+• Automação: Robot Framework, Selenium, Playwright e karate Framework.
 
 • Linguagens: Python, JavaScript e TypeScript.
 
