@@ -6,7 +6,7 @@
    
    •📍Morando em Manaus-Am (Brasil).
 
- Sou Graduando em Análise e Desenvolvimento de Sistemas como foco em Quality Assurance(QA).Tenho experiência prática no ciclo de vida de testes, desde o planejamento até a execução, garantindo que o software entregue tenha o máximo de confiabilidade.
+ Sou Graduando em Análise e Desenvolvimento de Sistemas com foco em Quality Assurance(QA).Tenho experiência prática no ciclo de vida de testes, desde o planejamento até a execução, garantindo que o software entregue tenha o máximo de confiabilidade.
 
 Minhas Técnica:
   
